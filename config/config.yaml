@@ -1,0 +1,5 @@
+omise:
+  vault_url: "https://vault.omise.co/tokens"
+  vault_key: "pkey_test_5jfcn33wjzp2nf0gddc"
+  api_url: "https://api.omise.co/charges"
+  api_key: "skey_test_5jfcn33wknhfopzfwr6"
